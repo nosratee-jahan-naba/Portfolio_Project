@@ -1,0 +1,38 @@
+
+.navbar
+{
+    background-color: rgb(233, 218, 218);
+
+}
+
+.menu-bar
+ {
+  list-style: none;
+}
+
+li:hover
+{
+    color:rgb(241, 17, 88);
+    cursor: pointer;
+}
+
+
+mytext
+{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;    
+    font-style:normal;
+}
+
+.Carousel-container
+{
+    padding: 15px 15px;
+    size: 10px;
+    background-color: rgb(242, 238, 233);
+}
+
+.footer-container 
+{
+   background-color: rgb(215, 212, 214);
+}
+
